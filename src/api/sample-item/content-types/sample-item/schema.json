@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sample_items",
+  "info": {
+    "singularName": "sample-item",
+    "pluralName": "sample-items",
+    "displayName": "Sample item"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
