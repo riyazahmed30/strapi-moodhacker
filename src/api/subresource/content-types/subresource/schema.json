@@ -38,12 +38,12 @@
     "uid": {
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       },
       "type": "integer",
       "required": true,
-      "unique": true
+      "unique": false
     },
     "video": {
       "type": "media",
@@ -57,14 +57,14 @@
       ],
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       }
     },
     "videourl": {
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       },
       "type": "string"
